@@ -19,3 +19,9 @@ Description: A simple implementation of the Rock-Paper-Scissors game, illustrati
 **6)SieveOfEratosthenes.py
 Description: A one-liner implementation of the Sieve of Eratosthenes algorithm to generate all prime numbers up to a given limit.**
 
+**7)sttc.py(Speech-to-text convertion)
+Description: A Python project that converts speech to text and then transforms the text into sound.**
+
+**8)sttc_hindi.py(Hindi_Speech-to-text convertion)
+Description: A Python project that converts HIndi language speech to text and then transforms the text.**
+
