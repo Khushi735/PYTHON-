@@ -23,5 +23,7 @@ Description: A one-liner implementation of the Sieve of Eratosthenes algorithm t
 Description: A Python project that converts speech to text and then transforms the text into sound.**
 
 **8)sttc_hindi.py(Hindi_Speech-to-text convertion)
-Description: A Python project that converts HIndi language speech to text and then transforms the text.**
+Description: A Python project that converts Hindi language speech to text and then transforms the text.**
 
+**9)ttsc.py(Text-to-speech convertion)
+Description: A python project that converts text in speech.**
